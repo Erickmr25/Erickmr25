@@ -2,7 +2,6 @@
 - 👀 I’m interested in mobile development.
 - 🌱 I’m currently learning Flutter and React Js.
 - 💞️ I’m looking to collaborate on development company.
-- 📫 How to reach me on Twitter, @ericking2501
 
 <!---
 Erickmr25/Erickmr25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
